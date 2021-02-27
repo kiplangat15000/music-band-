@@ -1,0 +1,40 @@
+h1{
+    border-style: ridge;
+    border-width: 5px;
+    background-color: lightcoral;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: mintcream;
+    border: 0.5px solid blue;
+    border-width: 20px;
+    
+}
+body{
+    background-color: cyan;
+    font-weight: large;
+    border: 2px dotted red;
+
+} 
+a:hover{
+    background-color: pink;
+}
+h3{
+    width: 200px;
+    height: 50px;
+    color: gold;
+    text-align: center;
+    margin: 15px;
+    background-color: hotpink;
+    padding: 30px;
+    text-shadow: grey;
+}
+ol{
+    text-align: center;
+    border: 6px dotted blue;
+    width: 400px;
+    height: 70px;
+    overflow: auto;
+    text-size-adjust: x-large;
+        
+    }
