@@ -35,4 +35,10 @@ h3{
 img{
     color: rgb(253, 20, 4);
     }
+    a:hover{
+        background-color: tomato;
+        color: whitesmoke;
+        text-decoration:none;
+    }
+
 
